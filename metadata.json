@@ -1,0 +1,6 @@
+{
+  "name": "SchoolERP - School Management System",
+  "description": "Clean, modern, and practical school management SaaS dashboard for small schools, managing students, parents, classes, attendance, fees, and payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
